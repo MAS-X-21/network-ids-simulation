@@ -314,37 +314,37 @@ The following screenshots demonstrate the simulated SOC dashboard, network monit
 
 ### 📊 Screenshot 1 — SOC Dashboard
 
-![SOC Dashboard](screenshots/screenshot%20%2880%29.png)
+![SOC Dashboard](screenshots/Screenshot%20%2880%29.png)
 
 ---
 
 ### 🔍 Screenshot 2 — Network Traffic Monitoring
 
-![Network Monitoring](screenshots/screenshot%20%2881%29.png)
+![Network Monitoring](screenshots/Screenshot%20%2881%29.png)
 
 ---
 
 ### 🚨 Screenshot 3 — Security Alerts
 
-![Security Alerts](screenshots/screenshot%20%2882%29.png)
+![Security Alerts](screenshots/Screenshot%20%2882%29.png)
 
 ---
 
 ### 🧠 Screenshot 4 — Anomaly Detection
 
-![Anomaly Detection](screenshots/screenshot%20%2883%29.png)
+![Anomaly Detection](screenshots/Screenshot%20%2883%29.png)
 
 ---
 
 ### 📈 Screenshot 5 — Risk Analysis
 
-![Risk Analysis](screenshots/screenshot%20%2884%29.png)
+![Risk Analysis](screenshots/Screenshot%20%2884%29.png)
 
 ---
 
 ### 🛡️ Screenshot 6 — SOC Investigation / Incident Report
 
-![SOC Investigation](screenshots/screenshot%20%2885%29.png)
+![SOC Investigation](screenshots/Screenshot%20%2885%29.png)
 
 > **Note:** All traffic shown in this project is synthetic and intended for educational and defensive-security simulation.
 
